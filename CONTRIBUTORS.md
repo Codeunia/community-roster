@@ -1,1 +1,2 @@
 See our full community roster here!
+* **Name:** Anshima S.Kushwah | **GitHub:** [@johndoe](https://github.com/StackOverflowed18) | **Intro:** "Passionate about AI and ML. Exploring fullstack in MERN . Excited to learn and contribute!"
